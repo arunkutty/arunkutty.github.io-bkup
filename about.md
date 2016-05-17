@@ -3,15 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img src=" {{site.email | to_gravatar }}" alt="Profile Photo of Arun" style="width:135px;height:135px;border-radius: 25px;">
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+My name is Arun and I am a Level 3 support engineer working on Test Automation and Performance Testing tools in IBM Cloud. 
+Apart from Test Automation and Performance Testing which gives me my daily bread,
+I am passionate about Web and Mobile application development and tinker away merrily during weekends and holidays.
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Other than work and "hacking", I spend time listening to music and reading. I dabble with sketching and learning the keyboard as well.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I try to derive meaning in life by setting goals and working towards achieving them. My wife, I and our two boys live a content life
+among a circle of good friends in CV Raman Nagar, Bangalore.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<i>_Disclaimer_</i>: The opinions and interests expressed in this blog are my own and don't necessarily represent IBM's positions, strategies or views.
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
