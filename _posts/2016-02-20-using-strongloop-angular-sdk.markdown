@@ -2,6 +2,7 @@
 layout: post
 title:  Integrating loopback API Backend with an Angular application
 date:   2016-02-20 17:53:00 +0530
+author: Arun
 categories: webapp
 ---
 

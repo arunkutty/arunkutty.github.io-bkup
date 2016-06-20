@@ -2,7 +2,8 @@
 layout: post
 title:  Correlating ViewState and EventValidation in an Rational Performance Tester (RPT) Script
 date:   2016-03-15 18:29:00 +0530
-categories: rpt correlation
+author: Arun
+categories: RPT correlation
 ---
 **TLDR;** `Viewstate` and `EventValidation` may not be automatically correlated by [RPT](https://www.ibm.com/developerworks/downloads/r/rpt).
 use the attached [rules file based on RPT 8.7.1.x]({{site.url}}/assets/VS_EV_Rules.zip) to correlate your tests in case your application uses them. And... `goto:` Disclaimer at the end of this note.
