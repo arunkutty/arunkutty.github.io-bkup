@@ -3,7 +3,7 @@ layout: post
 title:  Integrating loopback API Backend with an Angular application
 date:   2016-02-20 17:53:00 +0530
 author: Arun
-categories: webapp
+categories: loopback
 ---
 
 Couple of weeks back, as part of a personal project, I started reading up on loopback.io framework which sits tidily on top of ExpressJS.

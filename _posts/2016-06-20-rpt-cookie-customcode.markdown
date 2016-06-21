@@ -3,7 +3,7 @@ layout: post
 title:  RPT - Modify Cookies using Java custom code
 date:   2016-06-20 21:27:00 +0530
 author: Arun
-categories: RPT customcode samples
+categories: RPT
 ---
 ### When to worry about cookies in playback
 Cookies in HTTP are automatically taken care by RPT except once in a blue moon. It is only when the
