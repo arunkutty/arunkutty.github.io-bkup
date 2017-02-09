@@ -22,6 +22,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://arunkutty.com" # the base hostname & protocol for your site
+#url: "http://127.0.0.1:4000"
 cover: "/assets/header_image-1.jpg"
 logo: "/assets/logo.png"
 
