@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="{{ site.url }}/assets/arunkutty-profilepic.jpeg" alt="Profile Photo of Arun" style="width:135px;height:135px;border-radius: 25px;">
+<img src="{{ site.url }}/assets/arunkutty-profilepic.jpeg" alt="Profile Photo of Arun" style="width:191;height:153;border-radius: 15px;">
 
 My name is Arun and I am a Solution Architect currently owning Level 3 support for Test Automation and Performance Testing tools in HCL Products and Platforms. 
 
