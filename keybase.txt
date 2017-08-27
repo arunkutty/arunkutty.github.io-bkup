@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/arunkutty
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://arunkutty.com
+  * I am arunkutty (https://keybase.io/arunkutty) on keybase.
+  * I have a public key ASDq6HdTUonvGPShTf04YrVkrbTcha8g7sMpHAMvW4J2ogo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010175c08176115d0e6d9cad0bd6ddd901ae6432c25c02bb1329a9ecf1daee1bbba20a",
+      "host": "keybase.io",
+      "kid": "0120eae877535289ef18f4a14dfd3862b564adb4dc85af20eec3291c032f5b8276a20a",
+      "uid": "4178aadafc043949bc5a73dd015bad19",
+      "username": "arunkutty"
+    },
+    "merkle_root": {
+      "ctime": 1503810996,
+      "hash": "7885aaf21e36778314a865eae704f1155e6a265918192cfde4c65f2a00403dbe65270769076d5e75b63551b28c6e83e2262b2cf972321c4a8e3b5661f6f9933e",
+      "hash_meta": "1fec6e4a843b06a76adeba0eb2cf7fe999e85f2499fff1bd799bf936de82b484",
+      "seqno": 1351002
+    },
+    "service": {
+      "hostname": "arunkutty.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.28"
+  },
+  "ctime": 1503811196,
+  "expire_in": 504576000,
+  "prev": "8b9d0bd5bd214bf6e1db0292d660d2d80bfdfd7035474a010284c88a716b415e",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6uh3U1KJ7xj0oU39OGK1ZK203IWvIO7DKRwDL1uCdqIKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNzVjMDgxNzYxMTVkMGU2ZDljYWQwYmQ2ZGRkOTAxYWU2NDMyYzI1YzAyYmIxMzI5YTllY2YxZGFlZTFiYmJhMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWFlODc3NTM1Mjg5ZWYxOGY0YTE0ZGZkMzg2MmI1NjRhZGI0ZGM4NWFmMjBlZWMzMjkxYzAzMmY1YjgyNzZhMjBhIiwidWlkIjoiNDE3OGFhZGFmYzA0Mzk0OWJjNWE3M2RkMDE1YmFkMTkiLCJ1c2VybmFtZSI6ImFydW5rdXR0eSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwMzgxMDk5NiwiaGFzaCI6Ijc4ODVhYWYyMWUzNjc3ODMxNGE4NjVlYWU3MDRmMTE1NWU2YTI2NTkxODE5MmNmZGU0YzY1ZjJhMDA0MDNkYmU2NTI3MDc2OTA3NmQ1ZTc1YjYzNTUxYjI4YzZlODNlMjI2MmIyY2Y5NzIzMjFjNGE4ZTNiNTY2MWY2Zjk5MzNlIiwiaGFzaF9tZXRhIjoiMWZlYzZlNGE4NDNiMDZhNzZhZGViYTBlYjJjZjdmZTk5OWU4NWYyNDk5ZmZmMWJkNzk5YmY5MzZkZTgyYjQ4NCIsInNlcW5vIjoxMzUxMDAyfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFydW5rdXR0eS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI4In0sImN0aW1lIjoxNTAzODExMTk2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjhiOWQwYmQ1YmQyMTRiZjZlMWRiMDI5MmQ2NjBkMmQ4MGJmZGZkNzAzNTQ3NGEwMTAyODRjODhhNzE2YjQxNWUiLCJzZXFubyI6MTEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA9PA04eTBe1mx/TWVi/fTNRHrm7x7J/pVNrQKfqcinADx8YWPANNOETknfWCo4myxVUQJ8WaqvoNQM+thGdeyC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBvx2qfG/jgckbyKjEzAQJ3K2Vw29gaNVynJZZOliNe6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/arunkutty
+
+==================================================================
