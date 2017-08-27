@@ -5,12 +5,12 @@ permalink: /about/
 ---
 <img src="{{ site.url }}/assets/arunkutty-profilepic.jpeg" alt="Profile Photo of Arun" style="width:191px;height:153px;border-radius: 15px;">
 
-My name is Arun and I am a Solution Architect currently owning Level 3 support for Test Automation and Performance Testing tools in HCL Products and Platforms. 
+I work on Test Automation tools development with HCL Products & Platforms and am a Level 3 Support Engineer 
+ for Performance Testing and Web UI Testing tools.
 
-Apart from Test Automation and Performance Testing which gives me my daily bread,
-I am passionate about Web and Mobile application development and tinker away merrily during weekends and holidays.
-
-Other than work and "hacking", I spend time listening to music and reading. I dabble with sketching and learning the keyboard as well.
+Apart from my core work, I am passionate about Web and Mobile application software development and 
+tinker with it during weekends and holidays. Other than work and "hacking", I spend time listening to music and reading. 
+I try to find time teaching myself Indian traditional art and the keyboard as well.
 
 I try to derive meaning in life by setting goals and working towards achieving them. My wife, I and our two boys live a content life
 among a circle of good friends in CV Raman Nagar, Bangalore.
