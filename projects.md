@@ -13,3 +13,6 @@ Calendar equivalent. Check out our [calendar web application](http://kollavarsha
 Krishna Leela - my art project June, July 2017 - A3 size</a></blockquote>
 <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
+<p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/pSmDCxA"><a href="//imgur.com/a/pSmDCxA">An attempt of a Madhubani style acrylic painting on canvas; July 2018</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
