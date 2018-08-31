@@ -9,6 +9,9 @@ Calendar equivalent. Check out our [calendar web application](http://kollavarsha
 
 ### #non-tech
 <p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Tpj5Zim"><a href="//imgur.com/a/Tpj5Zim">Ardhanareeshwaran - mural painting, 16"X20", acrylic colors on canvas, Aug'18</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
+<p>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/4cLVq"><a href="//imgur.com/4cLVq">
 Krishna Leela - my art project June, July 2017 - A3 size</a></blockquote>
 <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
