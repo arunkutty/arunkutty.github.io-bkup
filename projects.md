@@ -11,6 +11,15 @@ Calendar equivalent. Check out our [calendar web application](http://kollavarsha
 
 ### #non-tech
 <p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/qHKz9gg"><a href="//imgur.com/a/qHKz9gg">Krishna mural painting - 18&#39; X 24&quot;</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
+<p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bXE8Dsg"><a href="//imgur.com/a/bXE8Dsg">Vadakkumnathan Mustang</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
+<p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/3SPlrxd"><a href="//imgur.com/a/3SPlrxd">Krishna mural - Feb&#39;19</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
+<p>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/GfABtRZ"><a href="//imgur.com/GfABtRZ">Krishna - A Kerala style mural painting (Acrylic on 16&quot;X20&quot; canvas - Nov&#39;18)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 <p>
