@@ -11,6 +11,9 @@ Calendar equivalent. Check out our [calendar web application](http://kollavarsha
 
 ### #non-tech
 <p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/sJTP79p"><a href="//imgur.com/a/sJTP79p">Ganesha - Kerala Mural (18&quot; by 24&quot; acrylic on canvas)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
+<p>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/qHKz9gg"><a href="//imgur.com/a/qHKz9gg">Krishna mural painting - 18&#39; X 24&quot;</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 <p>

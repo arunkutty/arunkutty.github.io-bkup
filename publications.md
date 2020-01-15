@@ -11,3 +11,5 @@ permalink: /publications/
 * [Rational Performance Tester and Citrix troubleshooting and best practices](http://www.ibm.com/developerworks/library/d-rational-citrix-troubleshooting-trs/index.html)
 
 * [Customizing Rational Performance Tester Web Analytics Reports](http://www.testworkbench-community.com/blogs/customizing-performance-tester-web-analytics-reports)
+
+* [Paralells between art and software projects](https://medium.com/@kuttya/creating-art-and-software-some-interesting-parallels-97e8454eabf0)
