@@ -3,11 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-I can write code and troubleshoot software built with a variety of stacks and architectures. I'm part of HCL Software where we build test automation products. It is an exciting place to be, constantly being in the lookout for the latest in software development and adapting continuously.
+Hi! My name is Arun and I am glad you're here! 
 
-Aside from being bread-and-butter, I pursue programming as a hobby too. My other interests are painting, singing and writing.
+I am a programming enthusiast adept at using a variety of software stacks and architectures. Being the quintessential generalist (aka jack of all trades), I enjoy and am good at troubleshooting and problem solving. I'm part of the HCL Software OneTest Development team where we build test automation products. It's been an exciting journey, constantly being in the lookout for the latest in software engineering, adopting them into our products. Prior to this stint, I've donned various developer roles at TCS-Nortel and Motorola, in the Telecom space.
 
-A good life in my view is one where we create meaning by having goals, being balanced while pursuing them and helping each other at it.
+Aside from being bread-and-butter, I pursue programming as a hobby too. I have built several tools over the years. Do head on to my GitHub page to see some of my work. My other interests are painting, singing, reading and writing.
 
-<i>_Disclaimer_</i>: The opinions and interests expressed in this blog are my own and don't necessarily represent HCL or IBM's positions, strategies or views.
+Thanks for stopping by and hope my work would be of value to you.
 
+<i>_Disclaimer_</i>: The opinions and interests expressed in this blog/site are my own and don't necessarily represent HCL or IBM's positions, strategies or views.
