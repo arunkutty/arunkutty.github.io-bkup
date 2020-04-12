@@ -4,10 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 ### #tech
- [Kollavarsham.org](http://kollavarsham.org) - Convert Gregorian Calendar dates to their Malayalam (A South Indian) 
+[RPT - Custom code](https://github.com/arunkutty/rpt-customcode) - Java custom code samples for Rational Performance Tester
+
+[RTAS/OTS Server Utils](https://github.com/arunkutty/TestServerUtils) - Shell scripts (utilities) for working with the HCL OneTest Server and Rational Test Automation Server
+
+[Kollavarsham.org](http://kollavarsham.org) - Convert Gregorian Calendar dates to their Malayalam (A South Indian) 
 Calendar equivalent. Check out our [calendar web application](http://kollavarsham.org/calendar) to see it in action.
 
-[RPT - Custom code](https://github.com/arunkutty/rpt-customcode) - Java custom code samples for Rational Performance Tester
+[VoucherSafe](https://github.com/voucherSafe) - A strongloop powered web application to manage Expense Voucher workflows, that comes with a utility to export vouchers in bulk to Tally Accounting System.
+
+[Optaplanner-Timetable](https://github.com/Opta-timetable) - A web application to generate timetables using Optaplanner Constraint Satisfaction Solver and provides an editor to modify or finetune generated timetables.
+
+[AptYeoman](https://github.com/arunkutty/aptYeoman) - A mobile app based on the ionic framework which automates tasks such as water meter readings, SWM segration etc. that could be useful for apartment managers.
 
 ### #non-tech
 <p>
