@@ -19,6 +19,9 @@ Calendar equivalent. Check out our [calendar web application](http://kollavarsha
 
 ### #non-tech
 <p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/gMfypfd"><a href="//imgur.com/a/gMfypfd">Unnikrishnan and Balaraman - Kerala mural painting style - 18&quot;x24&quot; acrylic on canvas</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
+<p>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/sJTP79p"><a href="//imgur.com/a/sJTP79p">Ganesha - Kerala Mural (18&quot; by 24&quot; acrylic on canvas)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 <p>
