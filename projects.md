@@ -4,9 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 ### #tech
-[RPT - Custom code](https://github.com/arunkutty/rpt-customcode) - Java custom code samples for Rational Performance Tester
-
-[RTAS/OTS Server Utils](https://github.com/arunkutty/TestServerUtils) - Shell scripts (utilities) for working with the HCL OneTest Server and Rational Test Automation Server
+[RPT - Custom code](https://github.com/arunkutty/rpt-customcode) - Java custom code samples for Rational Performance Tester/HCL OneTest Performance
 
 [Kollavarsham.org](http://kollavarsham.org) - Convert Gregorian Calendar dates to their Malayalam (A South Indian) 
 Calendar equivalent. Check out our [calendar web application](http://kollavarsham.org/calendar) to see it in action.
@@ -18,6 +16,18 @@ Calendar equivalent. Check out our [calendar web application](http://kollavarsha
 [AptYeoman](https://github.com/arunkutty/aptYeoman) - A mobile app based on the ionic framework which automates tasks such as water meter readings, SWM segration etc. that could be useful for apartment managers.
 
 ### #non-tech
+<p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/2no5Fsw"  ><a href="//imgur.com/a/2no5Fsw">Acrylic painting project - Oct 2021</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
+<p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/iDhIk9q"  ><a href="//imgur.com/a/iDhIk9q">Painting project - Sep 2021</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
+<p>
+
+</p>
+<p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZMpEzfh"  ><a href="//imgur.com/a/ZMpEzfh">Mural Painting - Oct 2020</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</p>
 <p>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/gMfypfd"><a href="//imgur.com/a/gMfypfd">Unnikrishnan and Balaraman - Kerala mural painting style - 18&quot;x24&quot; acrylic on canvas</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
